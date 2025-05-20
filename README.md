@@ -37,7 +37,7 @@ LangChain-Translator-with-LCEL-Groq-API/
 ### ✅ 1. Clone the repository
 
 ```bash
-git clone https://github.com/Electrolight123/LangChain-Translator-with-LCEL-Groq-API.git
+git clone https://github.com/Electrolight123/LangChain-Translator-with-LCEL-Groq_API.git
 cd simplellmLCL
 ```
 
@@ -134,5 +134,3 @@ This project is licensed under the **MIT License**. You're free to fork, modify,
 
 ## 🤝 Contributing
 PRs and suggestions are welcome! If you find bugs or have enhancement ideas, feel free to open an issue.
-
-
