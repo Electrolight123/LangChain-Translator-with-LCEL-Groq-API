@@ -13,9 +13,7 @@ This is a simple LLM-based translation web app built using **LangChain**, **LCEL
 
 > Web UI for translation:
 
-![screenshot](assets/screenshot.png)
-
-*(Add your own screenshot in the `assets/` folder and rename appropriately)*
+![screenshot](assets/Screenshot.png)
 
 ---
 
