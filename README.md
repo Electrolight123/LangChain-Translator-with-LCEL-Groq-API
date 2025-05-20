@@ -56,19 +56,16 @@ GROQ_API_KEY="your_groq_api_key"
 python serve.py
 ```
 
-```
-
 This will:
 * Launch a **FastAPI** server at `http://127.0.0.1:8000`
 * Serve the LangChain chain at endpoint `/chain/invoke`
 * Open the `index.html` file in your browser automatically
 
-```
 # 🌐 Use the Web App
-```
+
 The web UI allows users to:
 
 *Enter a target language
 *Enter text in English
 *Click Translate to get output using Groq-powered open-source models
-```
+
