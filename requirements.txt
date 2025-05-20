@@ -1,0 +1,9 @@
+ipykernel
+fastapi
+sse_starlette
+langchain-groq
+dotenv
+openai
+langserve
+langchain_openai
+uvicorn
