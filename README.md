@@ -1,7 +1,7 @@
 # 🌐 LangChain Translator with LCEL + Groq API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![LangChain](https://img.shields.io/badge/LangChain-Enabled-orange)
 
@@ -13,7 +13,7 @@ This is a simple LLM-based translation web app built using **LangChain**, **LCEL
 
 > Web UI for translation:
 
-![screenshot](assets/Screenshot.png)
+![screenshot](assets/screenshot.png)
 
 ---
 
@@ -37,7 +37,7 @@ LangChain-Translator-with-LCEL-Groq-API/
 ### ✅ 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/simplellmLCL.git
+git clone https://github.com/Electrolight123/LangChain-Translator-with-LCEL-Groq-API.git
 cd simplellmLCL
 ```
 
